@@ -39,10 +39,10 @@ Archynex is an AI-assisted system architecture design platform that enables engi
 ## 📦 Installation
 
 ```bash
-git clone <repository-url>
-cd archynex
+git clone https://github.com/shivam-jondhale/Archynex__
+cd Archynex__
 npm install
-cp .env.local.example .env.local  # Add Gemini API key if using AI features
+# Add Gemini API key 
 npm run dev
 ```
 
