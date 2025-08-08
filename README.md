@@ -85,4 +85,12 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ---
 
-**Built for professionals who want intelligent, production-ready system designs.**
+---
+
+## 📢 Author
+
+**Shivam Jondhale**
+📧 [shivamjondhale82@gmail.com](mailto:shivamjondhale82@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/shivam-jondhale-a78ba9375)
+🌐 [Portfolio](https://shivam-portfolio-tan.vercel.app/)
+
