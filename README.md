@@ -69,15 +69,6 @@ Visit **[http://localhost:3000](http://localhost:3000)** to start building.
 
 ---
 
-## 📍 Roadmap
-
-* Real-time collaboration
-* Export to PNG/PDF/SVG
-* Dark mode
-* Compliance-ready templates (HIPAA, PCI-DSS)
-* Cloud provider integrations
-
----
 
 ## 📄 License
 
