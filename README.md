@@ -1,26 +1,31 @@
 Archynex — AI-Powered System Architecture Builder
 Live Demo: archynex.vercel.app
 
-Archynex is a next-generation, AI-assisted system architecture design platform built to help engineers and architects quickly visualize, refine, and optimize large-scale systems. It blends intuitive diagramming with intelligent suggestions, making complex architectural decisions faster, clearer, and more reliable.
+Archynex is an AI-assisted system architecture design platform that enables engineers, solution architects, and tech teams to visually design, refine, and optimize large-scale systems. With a blend of drag-and-drop diagramming and intelligent recommendations, Archynex turns complex system design into a streamlined, collaborative experience.
 
-🌟 Why Archynex Stands Out
-Not just diagrams — Get actionable, AI-driven advice on scaling, security, and performance. Interactive by design — Build and modify architectures visually with instant feedback. Professional outputs — Export structured, version-controlled architecture data. Real-world focus — Includes components and patterns inspired by industry best practices.
-🧩 Core Features
-Drag & Drop Builder: Rapidly assemble architectures with categorized cloud, network, and service components. AI Architecture Coach: Ask natural language questions to get tailored recommendations. Design Review Mode: Automatically highlights potential bottlenecks and improvement areas. Template Library: Start from proven designs for APIs, SaaS, e-commerce, and more. One-Click Export: Share JSON blueprints with teams or integrate with documentation workflows.
-⚙️ Tech Behind the Magic
-Framework: Next.js 13, React 18, TypeScript UI/UX: Tailwind CSS, Framer Motion animations Diagram Engine: React Flow State: Zustand AI Integration: Google Gemini API (optional, configurable) Storage: Local browser persistence with JSON serialization
-🚀 Quick Start
-git clone <repo-url>
+✨ Features
+Core Functionality
+Drag & Drop Builder — Quickly assemble architectures using categorized components. Interactive Canvas — Create node-based diagrams with live connections and updates. Template Library — Start from proven, production-grade architecture patterns. Export & Share — Save your designs as JSON for version control and collaboration. Responsive Design — Works across desktop, tablet, and mobile.
+AI-Powered Assistance
+Architecture Recommendations — Get suggestions on scalability, performance, and cost efficiency. Design Review — Identify potential bottlenecks or vulnerabilities automatically. Learning Mode — Understand the role and best practices of each component. Custom Prompts — Ask domain-specific questions for tailored design insights.
+🛠 Tech Stack
+Framework: Next.js 13, React 18, TypeScript UI: Tailwind CSS, Framer Motion Diagramming: React Flow State Management: Zustand AI Integration: Google Gemini API (optional) Storage: Browser LocalStorage
+📦 Installation
+git clone <repository-url>
 cd archynex
 npm install
-cp .env.local.example .env.local  # configure Gemini key if needed
+cp .env.local.example .env.local  # Add Gemini API key if using AI features
 npm run dev
-# open http://localhost:3000
-💡 AI Prompt Ideas
-"Design a high-availability backend for a fintech app" "Suggest a CDN and caching strategy for global e-commerce" "Review my architecture for potential security vulnerabilities"
-📌 Deployment
-Recommended: Vercel — one-click deployment from GitHub with environment variable support.
+Visit http://localhost:3000 to start building.
 
-🔮 Roadmap Highlights
-Real-time team collaboration Export to PNG/PDF/SVG Pre-built compliance templates (HIPAA, PCI-DSS) Dark mode
-Made for innovators who value both clarity and intelligence in system design.
+💡 Example AI Prompts
+"Design a multi-region API backend for 1M users." "Suggest a caching strategy for a global e-commerce platform." "Review my architecture for data security compliance."
+🚀 Deployment
+Vercel (Recommended)
+Push the code to GitHub. Import the repo to Vercel. Configure environment variables. Deploy.
+📍 Roadmap
+Real-time collaboration Export to PNG/PDF/SVG Dark mode Compliance-ready templates (HIPAA, PCI-DSS) Cloud provider integrations
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+Built for professionals who want intelligent, production-ready system designs.
