@@ -68,6 +68,14 @@ Visit **[http://localhost:3000](http://localhost:3000)** to start building.
 4. Deploy.
 
 ---
+## 👥 Contributions
+
+This project was collaboratively developed with the following responsibilities:
+
+- **Shivam Jondhale** – UI/UX Design, State Management (Zustand), and Testing 
+- **Vaibhavi Kahar** – Frontend Development (React, Next.js, TypeScript) & AI Integration (Gemini API)  
+- **Shivani Jare** – Quality Assurance & Performance Optimization  
+- **Sneha Ghadge** – Deployment (Vercel), Version Control, and DevOps Support  
 
 
 ## 📄 License
